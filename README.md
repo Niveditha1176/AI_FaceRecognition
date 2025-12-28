@@ -117,10 +117,15 @@ This project is licensed under the MIT License.
 
 ---
 ## 📸 Screenshots of Output
+- **facial recognition of existing datasets:**
 
 <img width="3061" height="1813" alt="image" src="https://github.com/user-attachments/assets/82e338b7-e525-4e92-8da1-5dd4d7747436" />
 
 <img width="1872" height="1060" alt="image" src="https://github.com/user-attachments/assets/f6813def-58d9-43b1-92d0-b4991af02526" />
+
+- **setting up a new facial recognition :**
+
+<img width="1697" height="588" alt="image" src="https://github.com/user-attachments/assets/5f97a58e-07ba-4911-9299-db5e92ce3e9f" />
 
 
 
